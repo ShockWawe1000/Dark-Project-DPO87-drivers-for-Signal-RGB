@@ -2,8 +2,6 @@
 
 To add custom plugins for **SignalRGB**, you need to place your plugin files in the appropriate directory. 
 
-## User-made Plugins Directory
-
 Custom plugins should be placed in the **User Directory** to ensure SignalRGB can load them properly. By default, this directory is in one of the following locations:
 
 
