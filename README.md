@@ -1,3 +1,8 @@
+# Which plugin to use? IMPORTANT!!!
+ALL 
+Use the Dark Project DPO87 PERFORMANCE plugin so you can ACTUALLY USE YOUR KEYBOARD! It will be choppy and clunky but it works. The other one works in real time but yout keyboard will stick keys and miss imputs since the board will be 
+overloaded with information
+
 # SignalRGB Custom Plugin Placement Guide
 
 To add custom plugins for **SignalRGB**, you need to place your plugin files in the appropriate directory. 
